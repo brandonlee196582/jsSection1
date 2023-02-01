@@ -1,0 +1,21 @@
+{
+  "name": "jssection1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsSection1.js",
+  "scripts": {
+    "start": "node jsSection1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonlee196582/jsSection1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonlee196582/jsSection1/issues"
+  },
+  "homepage": "https://github.com/brandonlee196582/jsSection1#readme"
+}
